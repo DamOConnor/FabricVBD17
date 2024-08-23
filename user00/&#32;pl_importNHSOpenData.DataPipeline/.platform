@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": " pl_importNHSOpenData"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "05f64048-df17-4924-ae5d-6452c18255dd"
+  }
+}
